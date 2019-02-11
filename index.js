@@ -13,4 +13,8 @@ function overwriteBestCustomer(newcustomer) {
   bestCustomer = newcustomer;
 }
 
+function leastFavoriteCustomer() {
+  let leastFavoriteCustomer = 'yeckels';
+}
+
 function 
