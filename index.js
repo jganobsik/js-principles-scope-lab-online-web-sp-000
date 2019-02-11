@@ -17,4 +17,6 @@ function leastFavoriteCustomer() {
   let leastFavoriteCustomer = 'yeckels';
 }
 
-function 
+function changeLeastFavoriteCustomer(newcustomer) {
+  leastFavoriteCustomer = newcustomer;
+}
