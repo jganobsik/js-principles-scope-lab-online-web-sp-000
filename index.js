@@ -10,14 +10,14 @@ function setBestCustomer() {
   var bestCustomer = 'not bob';
 }
 
-function overwriteBestCustomer(newcustomer) {
-  bestCustomer = newcustomer;
+function overwriteBestCustomer() {
+  bestCustomer = 'cheesemar';
 }
 
 
   const leastFavoriteCustomer = 'yeckels';
 
 
-function changeLeastFavoriteCustomer(newcustomer) {
-  leastFavoriteCustomer = newcustomer;
+function changeLeastFavoriteCustomer() {
+  leastFavoriteCustomer = 'newcustomer';
 }
